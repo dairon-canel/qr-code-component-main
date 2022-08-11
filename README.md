@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://frontendmentor-task3-daironcanel.netlify.app](https://frontendmentor-task3-daironcanel.netlify.app/)
 
 ## My process
 
@@ -35,6 +35,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Dairon Canel](https://www.your-site.com)
+- Website - [Dairon Canel](https://portfolio-daironcanel.netlify.app)
 - Frontend Mentor - [@RyuzakCoder](https://www.frontendmentor.io/profile/RyuzakCoder)
 
