@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://frontendmentor-task3-daironcanel.netlify.app](https://frontendmentor-task3-daironcanel.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/qr-code-component-using-css-flexbox-s1r0Kjf1fv)
+- Live Site URL: [https://frontendmentor-task3-daironcanel.netlify.app](https://frontendmentor-task3-daironcanel.netlify.app)
 
 ## My process
 
